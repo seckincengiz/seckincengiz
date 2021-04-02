@@ -1,1 +1,1 @@
-### Hey, what’s up! 👋  I’m Seckin. Game Developer, XR Expert, R&D Engineer, Inventor, Simplifier, Automator, Speaker based in Istanbul, Turkey. Currently, I’m doing things at Siemens. Also visit, [About Me](https://seckin.dev/about/) and [Resume](https://seckin.dev/resume/) pages.
+### Hey, what’s up! 👋  I’m Seckin. Game Developer, XR Expert, R&D Engineer, Inventor, Simplifier, Automator, Speaker based in Istanbul, Turkey. For more info please visit [About Me](https://seckin.dev/about/) and [Resume](https://seckin.dev/resume/) pages.
